@@ -130,7 +130,7 @@ String pass = "";
 ```
 
 Make sure:
-- SQL Lite Server is running
+- SQL Lite 
 - SQL Lite JDBC Driver is installed
 - Database `shrms` exists
 
@@ -172,8 +172,6 @@ The system automatically generates a detailed bill including:
 
 ## 👨‍💻 Author
 Developed By {Fano-Hashmi}
-Developed as a Hotel Management System project using Java Swing and JDBC.
-
 ---
 
 ## 📄 License
