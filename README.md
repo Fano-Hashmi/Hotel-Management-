@@ -1,116 +1,3 @@
-# Hotel Management System
-
-A modern Hotel Management System designed to simplify hotel operations such as room booking, customer management, reservations, and billing.
-
-## Features
-
-- Room Management
-  - Add, update, and delete rooms
-  - View room availability
-  - Categorize rooms by type
-
-- Customer Management
-  - Register new customers
-  - Store customer information
-  - Manage customer records
-
-- Reservation System
-  - Book rooms
-  - Check-in and check-out functionality
-  - Reservation tracking
-
-- Billing & Payments
-  - Generate invoices
-  - Calculate room charges
-  - Payment record management
-
-- Dashboard
-  - Overview of hotel activities
-  - Booking statistics
-  - Room occupancy status
-
-## Technologies Used
-
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP / Node.js / Java (Update according to your project)
-- Database: MySQL
-- Version Control: Git & GitHub
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/hotel-management-system.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd hotel-management-system
-```
-
-3. Configure the database.
-
-4. Import the provided SQL file into MySQL.
-
-5. Start the application.
-
-## Database Setup
-
-1. Create a new database.
-2. Import the SQL file located in the project directory.
-3. Update database credentials in the configuration file.
-
-## Project Structure
-
-```text
-hotel-management-system/
-│
-├── src/
-├── database/
-├── assets/
-├── screenshots/
-├── README.md
-└── LICENSE
-```
-
-## Screenshots
-
-Add screenshots of your application here.
-
-## Future Improvements
-
-- Online payment integration
-- Email notifications
-- Customer feedback system
-- Admin analytics dashboard
-
-## Contributing
-
-Contributions are welcome. Feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Author
-
-Developed by [Your Name]
-
-Agar aap mujhe bata dein:
-
-Project kis language/framework mein bana hai (Java, C#, PHP, Python, etc.)
-Console app hai ya GUI/Web app
-Kaun kaun se modules hain
-
-to main aapke project ke mutabiq ek customized, professional GitHub README tayar kar dunga.
-
-Pasted code.java
-File
-yeh code hai iska ik read.me bana kr do mujhy 
-
-Aapke code ko dekh kar yeh Java Swing based Hotel Management System lag raha hai. GitHub ke liye yeh README use kar sakte hain:
 
 # 🏨 Hotel Management System
 
@@ -205,7 +92,7 @@ Total Rooms:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/hotel-management-system.git
+git clone https://github.com/Fano-Hashmi/hotel-management-system.git
 ```
 
 ### 2. Open Project
@@ -214,7 +101,8 @@ Open the project in:
 - IntelliJ IDEA
 - NetBeans
 - Eclipse
-
+- VS Code
+  
 ### 3. Compile
 
 ```bash
@@ -242,8 +130,8 @@ String pass = "";
 ```
 
 Make sure:
-- MySQL Server is running
-- MySQL JDBC Driver is installed
+- SQL Lite Server is running
+- SQL Lite JDBC Driver is installed
 - Database `shrms` exists
 
 ---
@@ -283,7 +171,7 @@ The system automatically generates a detailed bill including:
 ---
 
 ## 👨‍💻 Author
-
+Developed By {Fano-Hashmi}
 Developed as a Hotel Management System project using Java Swing and JDBC.
 
 ---
